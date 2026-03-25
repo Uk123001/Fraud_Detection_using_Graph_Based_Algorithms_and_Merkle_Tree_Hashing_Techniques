@@ -1,4 +1,4 @@
-# GNN Fraud Detection System with Merkle Tree Hashing
+# A Comparative Study on Fraud Detection Models using GNN with Merkle Tree Hashing on Transaction Graphs
 
 **A hybrid Graph Neural Network framework for financial fraud detection using transaction graphs, enriched with per-node Merkle Tree hashing for transaction integrity and tamper resistance.**
 
